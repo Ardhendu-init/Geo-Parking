@@ -1,0 +1,51 @@
+const menu = [
+  {
+    id: 1,
+    title: "Junction Mall",
+    place: "Durgapur",
+    price: "30/hr",
+    img: "./images/item-1.jpg",
+    desc: `Address: Harekrishna Konar Sarani Near Citi residency, City Center, Durgapur, West Bengal 713216 `,
+  },
+  {
+    id: 2,
+    title: "Big Bazar",
+    place: "Durgapur",
+    price: "25/hr",
+    img: "./images/item-2.jpeg",
+    desc: `Address: Ground Floor Dreamplex Complex, Abanindra Bithi, near Bengal Srishti, City Center, Durgapur, West Bengal 713216 `,
+  },
+  {
+    id: 3,
+    title: "Reliance Trends",
+    place: "Durgapur",
+    price: "20/hr",
+    img: "./images/item-3.jpg",
+    desc: `Address: near, T N High School, Bhiringi, Benachity, Durgapur, West Bengal 713213`,
+  },
+  {
+    id: 4,
+    title: "Hotel Central Plaza",
+    place: "Siliguri",
+    price: "20/hr",
+    img: "./images/item-4.jpg",
+    desc: `Hotel Central Plaza, Hill Cart Road, Siliguri, West Bengal, India`,
+  },
+  {
+    id: 5,
+    title: "Asansol Sentrum mall",
+    place: "Asansol",
+    price: "35/hr",
+    img: "./images/item-5.jpg",
+    desc: `Address: Shristi Nagar Road, Kanyapur, Asansol, West Bengal 713341`,
+  },
+  {
+    id: 6,
+    title: "Galaxy Mall",
+    place: "Asansol",
+    price: "20/hr",
+    img: "./images/item-6.jpg",
+    desc: `Address Chitra More,Burnpur Road, Asansol – 713325.`,
+  },
+];
+export default menu;
